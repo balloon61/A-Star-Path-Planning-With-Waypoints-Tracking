@@ -1,4 +1,4 @@
-Team member: 
+Author: 
 Pin-Hao Huang (117517542), Po-Lun Chen (118307435)
 
 Github Link:
