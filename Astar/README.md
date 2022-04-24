@@ -1,7 +1,7 @@
 Author: 
 Pin-Hao Huang (117517542), Po-Lun Chen (118307435)
 
-Github Link:
+Github Link: https://github.com/balloon61/A-star.git
 
 
 Require package:
